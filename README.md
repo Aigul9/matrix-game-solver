@@ -11,7 +11,7 @@
 3. second player's number of strategies
 
 ### Structure of output file:
-A: matrix<br/>
-x: first player's mixed strategies<br/>
-y: second player's mixed strategies<br/>
-v: saddle point
+1. A - matrix
+2. x - first player's mixed strategies
+3. y - second player's mixed strategies
+4. v - saddle point
